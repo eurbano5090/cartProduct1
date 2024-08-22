@@ -1,0 +1,19 @@
+nav{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background:rgb(72, 27, 113) ;
+}
+h3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.agregar-carrito{
+    background: rgb(130, 98, 161);
+    
+}
+
+.finalizar-compra{
+    background: rgb(45, 45, 84);
+    margin-top: 10px;
+}
